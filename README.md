@@ -1,2 +1,6 @@
 # my-fastai-projects
-Experimenting while going through the fastai deep learning course.
+
+Projects that I've built while experimenting with the fast.ai library and doing the 2019 fastai deep learning courses.
+
+
+* Project 1: classifying images of cells on whether or not the cell is infected or parasitised [notebook](https://github.com/StephenPritchard/my-fastai-projects/blob/master/malaria-infection-classification.ipynb) 
